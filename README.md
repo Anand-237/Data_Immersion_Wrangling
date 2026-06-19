@@ -6,12 +6,12 @@ This repository contains SQL scripts, Python analysis scripts, and cleaned datas
 
 The repository contains the following directories:
 
-*   📁 **[task_1 data wrangling](file:///c:/Users/sharm/OneDrive/Desktop/Customer_data/task_1%20data%20wrangling)**: Data hygiene, validation, and feature engineering.
+*   📁 **[task_1 data wrangling](./task_1%20data%20wrangling)**: Data hygiene, validation, and feature engineering.
     *   `customer_data.sql`: Main SQL cleaning and feature engineering script.
     *   `details.sql`: Database schema definition and constraint enforcement.
     *   `customerdatacleaned.csv` / `customerdetails_500_cleaned.csv` / `customerdetails_500_cleaned.xlsx`: Cleaned customer profile datasets.
     *   `README.md`: Specific documentation for Task 1 wrangling pipeline.
-*   📁 **[task_2 EDA](file:///c:/Users/sharm/OneDrive/Desktop/Customer_data/task_2%20EDA)**: Statistical modeling, visual analysis, and business reports.
+*   📁 **[task_2 EDA](./task_2%20EDA)**: Statistical modeling, visual analysis, and business reports.
     *   `Customer_EDA.sql`: SQL queries analyzing descriptive statistics, frequencies, and segments.
     *   `customer_eda.py`: Python script utilizing `pandas`, `matplotlib`, and `seaborn` to generate distribution, correlation, and segmentation charts.
     *   `Customer_Analytics_Dashboard.pptx`: Comprehensive presentation/slideshow outlining EDA insights.
